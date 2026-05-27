@@ -34,7 +34,7 @@ This repository uses GitHub Actions to fetch the latest model data from Ollama C
 
 ## Free Models
 
-These models are available at no cost. No subscription is required — you only need a free Ollama Cloud account with an API key.
+These models are available at no cost. No subscription is required (you only need a free Ollama Cloud account with an API key).
 
 <!-- FREE_MODELS_TABLE -->
 | Model |
