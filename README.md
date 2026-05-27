@@ -58,6 +58,12 @@ These models are available at no cost. No subscription is required (you only nee
 | ministral-3:8b |
 | nemotron-3-nano:30b |
 | nemotron-3-super |
+| qwen3-coder-next |
+| qwen3-coder:480b |
+| qwen3-next:80b |
+| qwen3-vl:235b |
+| qwen3-vl:235b-instruct |
+| rnj-1:8b |
 <!-- FREE_MODELS_TABLE_END -->
 
 ## Paid Models
@@ -67,6 +73,10 @@ These models require a paid subscription to access.
 <!-- PAID_MODELS_TABLE -->
 | Model |
 |-------|
+| deepseek-v3.1:671b |
+| deepseek-v3.2 |
+| deepseek-v4-flash |
+| deepseek-v4-pro |
 | gemini-3-flash-preview |
 | glm-5 |
 | glm-5.1 |
