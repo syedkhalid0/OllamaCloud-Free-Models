@@ -1,5 +1,57 @@
 [
   {
+    "model": "glm-5",
+    "isFree": false
+  },
+  {
+    "model": "qwen3-coder-next",
+    "isFree": true
+  },
+  {
+    "model": "qwen3-vl:235b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m2.1",
+    "isFree": true
+  },
+  {
+    "model": "rnj-1:8b",
+    "isFree": true
+  },
+  {
+    "model": "kimi-k2:1t",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2-thinking",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v3.2",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2",
+    "isFree": true
+  },
+  {
+    "model": "ministral-3:3b",
+    "isFree": true
+  },
+  {
+    "model": "devstral-2:123b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m2.5",
+    "isFree": true
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
     "model": "kimi-k2.5",
     "isFree": false
   },
@@ -102,57 +154,5 @@
   {
     "model": "qwen3.5:397b",
     "isFree": false
-  },
-  {
-    "model": "glm-5",
-    "isFree": false
-  },
-  {
-    "model": "qwen3-coder-next",
-    "isFree": true
-  },
-  {
-    "model": "qwen3-vl:235b",
-    "isFree": true
-  },
-  {
-    "model": "minimax-m2.1",
-    "isFree": true
-  },
-  {
-    "model": "rnj-1:8b",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k2:1t",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2-thinking",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v3.2",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m2",
-    "isFree": true
-  },
-  {
-    "model": "ministral-3:3b",
-    "isFree": true
-  },
-  {
-    "model": "devstral-2:123b",
-    "isFree": true
-  },
-  {
-    "model": "minimax-m2.5",
-    "isFree": true
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
   }
 ]
