@@ -53,6 +53,7 @@ These models are available at no cost. No subscription is required (you only nee
 | minimax-m2 |
 | minimax-m2.1 |
 | minimax-m2.5 |
+| minimax-m3 |
 | ministral-3:14b |
 | ministral-3:3b |
 | ministral-3:8b |
