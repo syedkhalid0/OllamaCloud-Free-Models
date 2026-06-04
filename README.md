@@ -59,6 +59,7 @@ These models are available at no cost. No subscription is required (you only nee
 | ministral-3:8b |
 | nemotron-3-nano:30b |
 | nemotron-3-super |
+| nemotron-3-ultra |
 | qwen3-coder-next |
 | qwen3-coder:480b |
 | qwen3-next:80b |
