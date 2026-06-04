@@ -49,6 +49,7 @@ These models are available at no cost. No subscription is required (you only nee
 | glm-4.6 |
 | glm-4.7 |
 | gpt-oss:120b |
+| gpt-oss:20b |
 | minimax-m2 |
 | minimax-m2.1 |
 | minimax-m2.5 |
@@ -58,6 +59,7 @@ These models are available at no cost. No subscription is required (you only nee
 | ministral-3:8b |
 | nemotron-3-nano:30b |
 | nemotron-3-super |
+| nemotron-3-ultra |
 | qwen3-coder-next |
 | qwen3-coder:480b |
 | qwen3-next:80b |
@@ -80,14 +82,12 @@ These models require a paid subscription to access.
 | gemini-3-flash-preview |
 | glm-5 |
 | glm-5.1 |
-| gpt-oss:20b |
 | kimi-k2-thinking |
 | kimi-k2.5 |
 | kimi-k2.6 |
 | kimi-k2:1t |
 | minimax-m2.7 |
 | mistral-large-3:675b |
-| nemotron-3-ultra |
 | qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
 
