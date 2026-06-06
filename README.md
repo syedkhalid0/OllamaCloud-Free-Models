@@ -49,6 +49,7 @@ These models are available at no cost. No subscription is required (you only nee
 | glm-4.6 |
 | glm-4.7 |
 | gpt-oss:120b |
+| gpt-oss:20b |
 | minimax-m2 |
 | minimax-m2.1 |
 | minimax-m2.5 |
@@ -81,7 +82,6 @@ These models require a paid subscription to access.
 | gemini-3-flash-preview |
 | glm-5 |
 | glm-5.1 |
-| gpt-oss:20b |
 | kimi-k2-thinking |
 | kimi-k2.5 |
 | kimi-k2.6 |
