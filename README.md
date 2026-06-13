@@ -85,6 +85,7 @@ These models require a paid subscription to access.
 | kimi-k2-thinking |
 | kimi-k2.5 |
 | kimi-k2.6 |
+| kimi-k2.7-code |
 | kimi-k2:1t |
 | minimax-m2.7 |
 | mistral-large-3:675b |
