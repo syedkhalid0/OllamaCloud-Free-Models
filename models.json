@@ -1,54 +1,6 @@
 [
   {
-    "model": "cogito-2.1:671b",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "qwen3-next:80b",
-    "isFree": true
-  },
-  {
-    "model": "deepseek-v4-flash",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3",
-    "isFree": true
-  },
-  {
-    "model": "devstral-small-2:24b",
-    "isFree": true
-  },
-  {
-    "model": "gemma3:12b",
-    "isFree": true
-  },
-  {
-    "model": "rnj-1:8b",
-    "isFree": true
-  },
-  {
-    "model": "glm-4.6",
-    "isFree": true
-  },
-  {
     "model": "kimi-k2.5",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v3.2",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:20b",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.1",
     "isFree": false
   },
   {
@@ -56,15 +8,7 @@
     "isFree": false
   },
   {
-    "model": "deepseek-v4-pro",
-    "isFree": false
-  },
-  {
-    "model": "qwen3-vl:235b",
-    "isFree": true
-  },
-  {
-    "model": "minimax-m2.1",
+    "model": "nemotron-3-nano:30b",
     "isFree": true
   },
   {
@@ -72,16 +16,36 @@
     "isFree": true
   },
   {
-    "model": "gemini-3-flash-preview",
+    "model": "ministral-3:14b",
+    "isFree": true
+  },
+  {
+    "model": "devstral-small-2:24b",
+    "isFree": true
+  },
+  {
+    "model": "gemma3:27b",
+    "isFree": true
+  },
+  {
+    "model": "kimi-k2:1t",
     "isFree": false
   },
   {
-    "model": "nemotron-3-super",
+    "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
+    "model": "qwen3-coder:480b",
     "isFree": true
   },
   {
-    "model": "glm-4.7",
+    "model": "qwen3-coder-next",
     "isFree": true
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "isFree": false
   },
   {
     "model": "deepseek-v3.1:671b",
@@ -92,35 +56,15 @@
     "isFree": true
   },
   {
-    "model": "nemotron-3-nano:30b",
+    "model": "devstral-2:123b",
     "isFree": true
   },
   {
-    "model": "mistral-large-3:675b",
+    "model": "gemini-3-flash-preview",
     "isFree": false
   },
   {
-    "model": "qwen3.5:397b",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-ultra",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k2:1t",
-    "isFree": false
-  },
-  {
-    "model": "qwen3-vl:235b-instruct",
-    "isFree": true
-  },
-  {
-    "model": "ministral-3:8b",
-    "isFree": true
-  },
-  {
-    "model": "gemma4:31b",
+    "model": "rnj-1:8b",
     "isFree": true
   },
   {
@@ -128,7 +72,87 @@
     "isFree": false
   },
   {
-    "model": "qwen3-coder:480b",
+    "model": "deepseek-v3.2",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2.1",
+    "isFree": true
+  },
+  {
+    "model": "ministral-3:8b",
+    "isFree": true
+  },
+  {
+    "model": "qwen3.5:397b",
+    "isFree": false
+  },
+  {
+    "model": "cogito-2.1:671b",
+    "isFree": true
+  },
+  {
+    "model": "glm-4.6",
+    "isFree": true
+  },
+  {
+    "model": "qwen3-vl:235b-instruct",
+    "isFree": true
+  },
+  {
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "kimi-k2.7-code",
+    "isFree": false
+  },
+  {
+    "model": "qwen3-next:80b",
+    "isFree": true
+  },
+  {
+    "model": "qwen3-vl:235b",
+    "isFree": true
+  },
+  {
+    "model": "glm-4.7",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.1",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": true
+  },
+  {
+    "model": "ministral-3:3b",
+    "isFree": true
+  },
+  {
+    "model": "gemma3:4b",
+    "isFree": true
+  },
+  {
+    "model": "gemma3:12b",
+    "isFree": true
+  },
+  {
+    "model": "nemotron-3-ultra",
     "isFree": true
   },
   {
@@ -140,31 +164,7 @@
     "isFree": false
   },
   {
-    "model": "ministral-3:3b",
-    "isFree": true
-  },
-  {
-    "model": "devstral-2:123b",
-    "isFree": true
-  },
-  {
-    "model": "gemma3:27b",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k2.7-code",
-    "isFree": false
-  },
-  {
-    "model": "qwen3-coder-next",
-    "isFree": true
-  },
-  {
-    "model": "ministral-3:14b",
-    "isFree": true
-  },
-  {
-    "model": "gemma3:4b",
+    "model": "gemma4:31b",
     "isFree": true
   }
 ]
