@@ -48,7 +48,6 @@ These models are available at no cost. No subscription is required (you only nee
 | glm-4.7 |
 | gpt-oss:120b |
 | gpt-oss:20b |
-| minimax-m2.1 |
 | minimax-m2.5 |
 | minimax-m3 |
 | ministral-3:14b |
@@ -80,6 +79,7 @@ These models require a paid subscription to access.
 | kimi-k2.5 |
 | kimi-k2.6 |
 | kimi-k2.7-code |
+| minimax-m2.1 |
 | minimax-m2.7 |
 | mistral-large-3:675b |
 | qwen3.5:397b |
