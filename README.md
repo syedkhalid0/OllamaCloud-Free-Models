@@ -59,7 +59,6 @@ These models are available at no cost. No subscription is required (you only nee
 | nemotron-3-ultra |
 | qwen3-coder-next |
 | qwen3-coder:480b |
-| rnj-1:8b |
 <!-- FREE_MODELS_TABLE_END -->
 
 ## Paid Models
@@ -83,6 +82,7 @@ These models require a paid subscription to access.
 | minimax-m2.7 |
 | mistral-large-3:675b |
 | qwen3.5:397b |
+| rnj-1:8b |
 <!-- PAID_MODELS_TABLE_END -->
 
 ---
