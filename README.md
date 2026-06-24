@@ -43,6 +43,7 @@ These models are available at no cost. No subscription is required (you only nee
 | devstral-small-2:24b |
 | gemma3:12b |
 | gemma3:27b |
+| gemma3:4b |
 | gemma4:31b |
 | glm-4.7 |
 | gpt-oss:120b |
@@ -72,7 +73,6 @@ These models require a paid subscription to access.
 | deepseek-v4-flash |
 | deepseek-v4-pro |
 | gemini-3-flash-preview |
-| gemma3:4b |
 | glm-5 |
 | glm-5.1 |
 | glm-5.2 |
