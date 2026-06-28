@@ -1,4 +1,13 @@
 model,isFree
+gemma3:12b,true
+gemma4:31b,true
+rnj-1:8b,false
+glm-5.2,false
+kimi-k2.6,false
+qwen3-coder:480b,true
+deepseek-v4-pro,false
+gpt-oss:120b,true
+ministral-3:3b,true
 qwen3.5:397b,false
 minimax-m3,true
 devstral-2:123b,true
@@ -25,12 +34,3 @@ devstral-small-2:24b,true
 nemotron-3-super,true
 deepseek-v3.1:671b,false
 gemma3:4b,true
-gemma3:12b,true
-gemma4:31b,true
-rnj-1:8b,false
-glm-5.2,false
-kimi-k2.6,false
-qwen3-coder:480b,true
-deepseek-v4-pro,false
-gpt-oss:120b,true
-ministral-3:3b,true
