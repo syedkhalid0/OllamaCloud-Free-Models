@@ -47,6 +47,7 @@ These models are available at no cost. No subscription is required (you only nee
 | gemma4:31b |
 | glm-4.7 |
 | gpt-oss:120b |
+| gpt-oss:20b |
 | minimax-m2.1 |
 | minimax-m2.5 |
 | minimax-m3 |
@@ -75,14 +76,12 @@ These models require a paid subscription to access.
 | glm-5 |
 | glm-5.1 |
 | glm-5.2 |
-| gpt-oss:20b |
 | kimi-k2.5 |
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | minimax-m2.7 |
 | mistral-large-3:675b |
 | qwen3.5:397b |
-| rnj-1:8b |
 <!-- PAID_MODELS_TABLE_END -->
 
 ---
