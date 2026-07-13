@@ -55,6 +55,7 @@ These models are available at no cost. No subscription is required (you only nee
 | ministral-3:3b |
 | ministral-3:8b |
 | nemotron-3-nano:30b |
+| nemotron-3-super |
 | nemotron-3-ultra |
 | qwen3-coder-next |
 | qwen3-coder:480b |
@@ -80,7 +81,6 @@ These models require a paid subscription to access.
 | kimi-k2.7-code |
 | minimax-m2.7 |
 | mistral-large-3:675b |
-| nemotron-3-super |
 | qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
 
