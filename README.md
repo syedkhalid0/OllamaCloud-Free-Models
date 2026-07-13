@@ -41,6 +41,7 @@ These models are available at no cost. No subscription is required (you only nee
 |-------|
 | devstral-2:123b |
 | devstral-small-2:24b |
+| gemma3:12b |
 | gemma3:27b |
 | gemma3:4b |
 | gemma4:31b |
@@ -49,6 +50,7 @@ These models are available at no cost. No subscription is required (you only nee
 | gpt-oss:20b |
 | minimax-m2.1 |
 | minimax-m2.5 |
+| minimax-m3 |
 | ministral-3:14b |
 | ministral-3:3b |
 | ministral-3:8b |
@@ -71,7 +73,6 @@ These models require a paid subscription to access.
 | deepseek-v4-flash |
 | deepseek-v4-pro |
 | gemini-3-flash-preview |
-| gemma3:12b |
 | glm-5 |
 | glm-5.1 |
 | glm-5.2 |
@@ -79,7 +80,6 @@ These models require a paid subscription to access.
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | minimax-m2.7 |
-| minimax-m3 |
 | mistral-large-3:675b |
 | qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
