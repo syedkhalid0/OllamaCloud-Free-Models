@@ -1,6 +1,6 @@
 [
   {
-    "model": "kimi-k2.6",
+    "model": "glm-5.2",
     "isFree": false
   },
   {
@@ -12,31 +12,11 @@
     "isFree": true
   },
   {
-    "model": "minimax-m2.5",
-    "isFree": true
-  },
-  {
-    "model": "gemma4:31b",
-    "isFree": true
-  },
-  {
-    "model": "gpt-oss:20b",
-    "isFree": true
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
-    "model": "deepseek-v4-flash",
+    "model": "qwen3.5:397b",
     "isFree": false
   },
   {
-    "model": "glm-5.2",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.5",
+    "model": "glm-5.1",
     "isFree": false
   },
   {
@@ -52,15 +32,19 @@
     "isFree": true
   },
   {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "kimi-k2.5",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
+    "isFree": true
+  },
+  {
     "model": "minimax-m2.7",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
-    "model": "qwen3.5:397b",
     "isFree": false
   },
   {
@@ -68,7 +52,23 @@
     "isFree": true
   },
   {
-    "model": "glm-5.1",
+    "model": "kimi-k2.6",
     "isFree": false
+  },
+  {
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "gemma4:31b",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2.5",
+    "isFree": true
   }
 ]
