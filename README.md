@@ -39,6 +39,7 @@ These models are available at no cost. No subscription is required (you only nee
 <!-- FREE_MODELS_TABLE -->
 | Model |
 |-------|
+| gemma4:31b |
 | gpt-oss:120b |
 | gpt-oss:20b |
 | minimax-m2.5 |
@@ -57,7 +58,6 @@ These models require a paid subscription to access.
 |-------|
 | deepseek-v4-flash |
 | deepseek-v4-pro |
-| gemma4:31b |
 | glm-5.1 |
 | glm-5.2 |
 | kimi-k2.5 |
