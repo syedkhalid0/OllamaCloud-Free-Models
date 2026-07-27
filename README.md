@@ -63,6 +63,7 @@ These models require a paid subscription to access.
 | kimi-k2.5 |
 | kimi-k2.6 |
 | kimi-k2.7-code |
+| kimi-k3 |
 | minimax-m2.7 |
 | mistral-large-3:675b |
 | qwen3.5:397b |
