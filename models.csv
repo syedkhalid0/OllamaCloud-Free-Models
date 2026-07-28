@@ -1,13 +1,4 @@
 model,isFree
-kimi-k2.7-code,false
-gpt-oss:120b,true
-nemotron-3-nano:30b,true
-kimi-k3,false
-nemotron-3-super,true
-glm-5.1,false
-deepseek-v4-pro,false
-mistral-large-3:675b,false
-glm-5.2,false
 kimi-k2.6,false
 minimax-m3,true
 gemma4:31b,true
@@ -18,3 +9,12 @@ kimi-k2.5,false
 deepseek-v4-flash,false
 minimax-m2.7,false
 minimax-m2.5,true
+kimi-k2.7-code,false
+gpt-oss:120b,true
+nemotron-3-nano:30b,true
+kimi-k3,false
+nemotron-3-super,true
+glm-5.1,false
+deepseek-v4-pro,false
+mistral-large-3:675b,false
+glm-5.2,false
