@@ -40,7 +40,6 @@ These models are available at no cost. No subscription is required (you only nee
 | Model |
 |-------|
 | gemma4:31b |
-| gpt-oss:120b |
 | gpt-oss:20b |
 | minimax-m3 |
 | nemotron-3-nano:30b |
@@ -60,6 +59,7 @@ These models require a paid subscription to access.
 | deepseek-v4-pro |
 | glm-5.1 |
 | glm-5.2 |
+| gpt-oss:120b |
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | kimi-k3 |
