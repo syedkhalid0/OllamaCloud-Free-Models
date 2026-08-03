@@ -43,7 +43,6 @@ These models are available at no cost. No subscription is required (you only nee
 | gpt-oss:120b |
 | gpt-oss:20b |
 | minimax-m3 |
-| nemotron-3-nano:30b |
 | nemotron-3-super |
 | nemotron-3-ultra |
 <!-- FREE_MODELS_TABLE_END -->
@@ -65,6 +64,7 @@ These models require a paid subscription to access.
 | kimi-k3 |
 | minimax-m2.7 |
 | mistral-large-3:675b |
+| nemotron-3-nano:30b |
 | qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
 
