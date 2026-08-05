@@ -55,8 +55,8 @@ These models require a paid subscription to access.
 <!-- PAID_MODELS_TABLE -->
 | Model |
 |-------|
-| deepseek-v4-flash |
 | deepseek-v4-flash:0731 |
+| deepseek-v4-flash:preview |
 | deepseek-v4-pro |
 | glm-5.1 |
 | glm-5.2 |
