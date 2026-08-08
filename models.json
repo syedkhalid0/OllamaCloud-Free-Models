@@ -1,14 +1,6 @@
 [
   {
-    "model": "qwen3.5:397b",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4-flash:preview",
+    "model": "mistral-large-3:675b",
     "isFree": false
   },
   {
@@ -20,7 +12,19 @@
     "isFree": true
   },
   {
-    "model": "glm-5.2",
+    "model": "gpt-oss:120b",
+    "isFree": true
+  },
+  {
+    "model": "qwen3.5:397b",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2.6",
     "isFree": false
   },
   {
@@ -32,31 +36,7 @@
     "isFree": true
   },
   {
-    "model": "glm-5.1",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:120b",
-    "isFree": true
-  },
-  {
-    "model": "minimax-m2.7",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.7-code",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4-flash:0731",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:20b",
+    "model": "minimax-m3",
     "isFree": true
   },
   {
@@ -64,11 +44,31 @@
     "isFree": true
   },
   {
-    "model": "deepseek-v4-pro",
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
-    "model": "minimax-m3",
+    "model": "deepseek-v4-flash:preview",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
     "isFree": true
+  },
+  {
+    "model": "glm-5.2",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-flash:0731",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2.7",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.1",
+    "isFree": false
   }
 ]
