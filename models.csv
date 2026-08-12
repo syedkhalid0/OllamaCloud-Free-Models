@@ -1,4 +1,6 @@
 model,isFree
+nemotron-3-nano:30b,true
+gemma4:31b,true
 qwen3.5:397b,false
 deepseek-v4-flash:0731,false
 deepseek-v4-flash:preview,false
@@ -15,5 +17,3 @@ nemotron-3-super,true
 mistral-large-3:675b,false
 kimi-k2.6,false
 deepseek-v4-pro,false
-nemotron-3-nano:30b,true
-gemma4:31b,true

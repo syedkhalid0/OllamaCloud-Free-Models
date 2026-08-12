@@ -1,5 +1,13 @@
 [
   {
+    "model": "nemotron-3-nano:30b",
+    "isFree": true
+  },
+  {
+    "model": "gemma4:31b",
+    "isFree": true
+  },
+  {
     "model": "qwen3.5:397b",
     "isFree": false
   },
@@ -62,13 +70,5 @@
   {
     "model": "deepseek-v4-pro",
     "isFree": false
-  },
-  {
-    "model": "nemotron-3-nano:30b",
-    "isFree": true
-  },
-  {
-    "model": "gemma4:31b",
-    "isFree": true
   }
 ]
