@@ -1,10 +1,4 @@
 model,isFree
-minimax-m3,true
-mistral-large-3:675b,false
-qwen3.5:397b,false
-glm-5.2,false
-glm-5.1,false
-gpt-oss:120b,true
 kimi-k3,false
 deepseek-v4-pro:preview,false
 gpt-oss:20b,true
@@ -18,3 +12,9 @@ deepseek-v4-pro:0813,false
 deepseek-v4-flash:preview,false
 deepseek-v4-flash:0731,false
 nemotron-3-nano:30b,true
+minimax-m3,true
+mistral-large-3:675b,false
+qwen3.5:397b,false
+glm-5.2,false
+glm-5.1,false
+gpt-oss:120b,true
