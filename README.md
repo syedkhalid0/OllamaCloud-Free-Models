@@ -61,6 +61,7 @@ These models require a paid subscription to access.
 | deepseek-v4-pro:preview |
 | glm-5.1 |
 | glm-5.2 |
+| glm-5.3-flash |
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | kimi-k3 |
