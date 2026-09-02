@@ -1,8 +1,4 @@
 model,isFree
-qwen3.5:397b,false
-deepseek-v4-pro:0813,false
-nemotron-3-nano:30b,true
-gemma4:31b,true
 glm-5.3,false
 glm-5.3-flash,false
 minimax-m2.7,false
@@ -18,3 +14,7 @@ gpt-oss:20b,true
 minimax-m3,false
 mistral-large-3:675b,false
 glm-5.1,false
+qwen3.5:397b,false
+deepseek-v4-pro:0813,false
+nemotron-3-nano:30b,true
+gemma4:31b,true
