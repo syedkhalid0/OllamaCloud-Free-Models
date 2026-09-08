@@ -1,5 +1,29 @@
 [
   {
+    "model": "qwen3.5:397b",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "nemotron-3-ultra",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.1",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
+    "isFree": true
+  },
+  {
     "model": "gemma4:31b",
     "isFree": true
   },
@@ -50,29 +74,5 @@
   {
     "model": "minimax-m3",
     "isFree": false
-  },
-  {
-    "model": "qwen3.5:397b",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
-    "model": "nemotron-3-ultra",
-    "isFree": true
-  },
-  {
-    "model": "glm-5.1",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k3",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:20b",
-    "isFree": true
   }
 ]
