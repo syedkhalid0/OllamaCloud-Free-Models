@@ -44,7 +44,6 @@ These models are available at no cost. No subscription is required (you only nee
 | gpt-oss:20b |
 | nemotron-3-nano:30b |
 | nemotron-3-super |
-| nemotron-3-ultra |
 <!-- FREE_MODELS_TABLE_END -->
 
 ## Paid Models
@@ -56,6 +55,7 @@ These models require a paid subscription to access.
 |-------|
 | deepseek-v4-flash:0731 |
 | deepseek-v4-pro:0813 |
+| deepseek-v4.1-flash |
 | glm-5.1 |
 | glm-5.2 |
 | glm-5.3 |
@@ -66,6 +66,7 @@ These models require a paid subscription to access.
 | minimax-m2.7 |
 | minimax-m3 |
 | mistral-large-3:675b |
+| nemotron-3-ultra |
 | qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
 
