@@ -54,10 +54,8 @@ These models require a paid subscription to access.
 <!-- PAID_MODELS_TABLE -->
 | Model |
 |-------|
-| deepseek-v4-flash:0731 |
 | deepseek-v4-pro:0813 |
 | deepseek-v4.1-flash |
-| glm-5.1 |
 | glm-5.2 |
 | glm-5.3 |
 | glm-5.3-flash |
@@ -67,7 +65,6 @@ These models require a paid subscription to access.
 | minimax-m2.7 |
 | minimax-m3 |
 | mistral-large-3:675b |
-| qwen3.5:397b |
 <!-- PAID_MODELS_TABLE_END -->
 
 ---
