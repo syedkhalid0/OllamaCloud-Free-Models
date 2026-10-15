@@ -54,6 +54,7 @@ These models require a paid subscription to access.
 <!-- PAID_MODELS_TABLE -->
 | Model |
 |-------|
+| clef:27b |
 | deepseek-v4-pro:0813 |
 | deepseek-v4.1-flash |
 | glm-5.2 |
