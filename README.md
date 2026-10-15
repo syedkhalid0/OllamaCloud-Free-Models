@@ -66,6 +66,7 @@ These models require a paid subscription to access.
 | minimax-m3 |
 | mistral-large-3:675b |
 | mistral-large-4 |
+| muse-spark-open |
 <!-- PAID_MODELS_TABLE_END -->
 
 ---
