@@ -39,6 +39,7 @@ These models are available at no cost. No subscription is required (you only nee
 <!-- FREE_MODELS_TABLE -->
 | Model |
 |-------|
+| beam |
 | gemma4:31b |
 | gpt-oss:120b |
 | gpt-oss:20b |
