@@ -67,6 +67,7 @@ These models require a paid subscription to access.
 | kimi-k3 |
 | minimax-m2.7 |
 | minimax-m3 |
+| minimax-m3.1-flash |
 | mistral-large-3:675b |
 | mistral-large-4 |
 | muse-spark-open |
