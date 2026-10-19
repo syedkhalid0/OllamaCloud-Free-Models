@@ -43,6 +43,7 @@ These models are available at no cost. No subscription is required (you only nee
 | gemma4:31b |
 | gpt-oss:120b |
 | gpt-oss:20b |
+| minimax-m3.1-flash |
 | nemotron-3-nano:30b |
 | nemotron-3-super |
 | nemotron-3-ultra |
@@ -67,7 +68,6 @@ These models require a paid subscription to access.
 | kimi-k3 |
 | minimax-m2.7 |
 | minimax-m3 |
-| minimax-m3.1-flash |
 | mistral-large-3:675b |
 | mistral-large-4 |
 | muse-spark-open |
