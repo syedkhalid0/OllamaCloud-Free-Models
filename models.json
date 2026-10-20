@@ -1,23 +1,31 @@
 [
   {
-    "model": "kimi-k2.7-code",
+    "model": "deepseek-v4.1-flash",
     "isFree": false
   },
   {
-    "model": "glm-5.3",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-ultra",
+    "model": "nemotron-3-nano:30b",
     "isFree": true
+  },
+  {
+    "model": "mistral-large-4",
+    "isFree": false
   },
   {
     "model": "beam",
     "isFree": true
   },
   {
-    "model": "deepseek-v4-pro:0813",
+    "model": "deepseek-v4.1-flash:1017",
     "isFree": false
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3.1-flash",
+    "isFree": true
   },
   {
     "model": "gpt-oss:120b",
@@ -28,23 +36,7 @@
     "isFree": false
   },
   {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "clef:27b",
-    "isFree": false
-  },
-  {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-nano:30b",
-    "isFree": true
-  },
-  {
-    "model": "nemotron-3-super",
+    "model": "nemotron-3-ultra",
     "isFree": true
   },
   {
@@ -52,7 +44,15 @@
     "isFree": false
   },
   {
+    "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
     "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
     "isFree": false
   },
   {
@@ -60,7 +60,7 @@
     "isFree": true
   },
   {
-    "model": "minimax-m3.1-flash",
+    "model": "gemma4:31b",
     "isFree": true
   },
   {
@@ -68,7 +68,7 @@
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash",
+    "model": "muse-spark-open",
     "isFree": false
   },
   {
@@ -76,19 +76,19 @@
     "isFree": false
   },
   {
-    "model": "minimax-m3",
+    "model": "glm-5.3",
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash:1017",
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
-    "model": "mistral-large-4",
-    "isFree": false
-  },
-  {
-    "model": "gemma4:31b",
+    "model": "nemotron-3-super",
     "isFree": true
+  },
+  {
+    "model": "clef:27b",
+    "isFree": false
   }
 ]
