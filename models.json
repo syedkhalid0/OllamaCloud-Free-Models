@@ -1,13 +1,5 @@
 [
   {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash",
-    "isFree": false
-  },
-  {
     "model": "glm-5.3-flash",
     "isFree": false
   },
@@ -90,5 +82,13 @@
   {
     "model": "nemotron-3-super",
     "isFree": true
+  },
+  {
+    "model": "muse-spark-open",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash",
+    "isFree": false
   }
 ]
