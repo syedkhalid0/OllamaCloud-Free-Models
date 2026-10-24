@@ -1,18 +1,6 @@
 [
   {
-    "model": "nemotron-3-ultra",
-    "isFree": true
-  },
-  {
-    "model": "glm-5.2",
-    "isFree": false
-  },
-  {
-    "model": "beam",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k3",
+    "model": "muse-spark-open",
     "isFree": false
   },
   {
@@ -24,42 +12,6 @@
     "isFree": false
   },
   {
-    "model": "minimax-m2.7",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-4",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash:1017",
-    "isFree": false
-  },
-  {
     "model": "gpt-oss:120b",
     "isFree": true
   },
@@ -68,7 +20,7 @@
     "isFree": false
   },
   {
-    "model": "minimax-m3.1-flash",
+    "model": "clef:27b",
     "isFree": false
   },
   {
@@ -76,11 +28,23 @@
     "isFree": false
   },
   {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
     "model": "gpt-oss:20b",
     "isFree": true
   },
   {
-    "model": "clef:27b",
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash:1017",
     "isFree": false
   },
   {
@@ -88,7 +52,43 @@
     "isFree": true
   },
   {
+    "model": "mistral-large-4",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-ultra",
+    "isFree": true
+  },
+  {
+    "model": "beam",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.3",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3.1-flash",
+    "isFree": false
+  },
+  {
     "model": "gemma4:31b",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.2",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2.7",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-super",
     "isFree": true
   }
 ]
