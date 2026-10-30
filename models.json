@@ -1,38 +1,14 @@
 [
   {
-    "model": "kimi-k3",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "gemma4:31b",
+    "model": "gpt-oss:20b",
     "isFree": true
   },
   {
-    "model": "clef:27b",
+    "model": "kimi-k2.6",
     "isFree": false
   },
   {
-    "model": "nemotron-3-nano:30b",
-    "isFree": true
-  },
-  {
-    "model": "glm-5.3-flash",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
-    "model": "deepseek-v4.1-flash:1017",
+    "model": "minimax-m3.1-flash",
     "isFree": false
   },
   {
@@ -44,27 +20,7 @@
     "isFree": false
   },
   {
-    "model": "gpt-oss:120b",
-    "isFree": true
-  },
-  {
-    "model": "gpt-oss:20b",
-    "isFree": true
-  },
-  {
-    "model": "minimax-m3",
-    "isFree": false
-  },
-  {
-    "model": "beam",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m2.7",
+    "model": "kimi-k3",
     "isFree": false
   },
   {
@@ -72,7 +28,19 @@
     "isFree": false
   },
   {
-    "model": "glm-5.2",
+    "model": "glm-5.3-flash",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.3",
     "isFree": false
   },
   {
@@ -80,15 +48,47 @@
     "isFree": false
   },
   {
-    "model": "mistral-large-3:675b",
+    "model": "clef:27b",
     "isFree": false
+  },
+  {
+    "model": "gpt-oss:120b",
+    "isFree": true
+  },
+  {
+    "model": "deepseek-v4.1-flash:1017",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-nano:30b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m2.7",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
+    "isFree": false
+  },
+  {
+    "model": "beam",
+    "isFree": true
   },
   {
     "model": "deepseek-v4.1-flash",
     "isFree": false
   },
   {
-    "model": "minimax-m3.1-flash",
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "gemma4:31b",
+    "isFree": true
+  },
+  {
+    "model": "glm-5.2",
     "isFree": false
   }
 ]
