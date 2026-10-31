@@ -1,26 +1,14 @@
 [
   {
-    "model": "kimi-k2.7-code",
-    "isFree": false
-  },
-  {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-flash",
-    "isFree": false
+    "model": "nemotron-3-super",
+    "isFree": true
   },
   {
     "model": "nemotron-3-ultra",
     "isFree": true
   },
   {
-    "model": "glm-5.2",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k3",
+    "model": "mimo-v2.6-flash",
     "isFree": false
   },
   {
@@ -28,23 +16,27 @@
     "isFree": false
   },
   {
-    "model": "clef:27b",
+    "model": "deepseek-v4.1-flash:1017",
     "isFree": false
   },
   {
-    "model": "beam",
+    "model": "gemma4:31b",
     "isFree": true
   },
   {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.2",
+    "isFree": false
+  },
+  {
     "model": "glm-5.3",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash:1017",
     "isFree": false
   },
   {
@@ -52,11 +44,23 @@
     "isFree": true
   },
   {
-    "model": "mistral-large-4",
+    "model": "clef:27b",
     "isFree": false
   },
   {
-    "model": "nemotron-3-nano:30b",
+    "model": "muse-spark-open",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:120b",
     "isFree": true
   },
   {
@@ -64,11 +68,23 @@
     "isFree": false
   },
   {
-    "model": "nemotron-3-super",
+    "model": "minimax-m3.1-flash",
+    "isFree": false
+  },
+  {
+    "model": "mistral-large-4",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
+    "isFree": false
+  },
+  {
+    "model": "beam",
     "isFree": true
   },
   {
-    "model": "gpt-oss:120b",
+    "model": "nemotron-3-nano:30b",
     "isFree": true
   },
   {
@@ -80,23 +96,7 @@
     "isFree": false
   },
   {
-    "model": "minimax-m3",
+    "model": "kimi-k2.7-code",
     "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-pro",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
-    "model": "gemma4:31b",
-    "isFree": true
   }
 ]
