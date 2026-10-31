@@ -65,6 +65,8 @@ These models require a paid subscription to access.
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | kimi-k3 |
+| mimo-v2.6-flash |
+| mimo-v2.6-pro |
 | minimax-m2.7 |
 | minimax-m3 |
 | minimax-m3.1-flash |
