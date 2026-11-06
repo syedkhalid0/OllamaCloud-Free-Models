@@ -1,9 +1,4 @@
 model,isFree
-nemotron-3-nano:30b,true
-nemotron-3-super,true
-mimo-v2.6-pro,false
-minimax-m2.7,false
-mistral-large-3:675b,false
 nemotron-3-ultra,true
 clef:27b,false
 muse-spark-open,false
@@ -25,3 +20,8 @@ minimax-m3.1-flash,false
 glm-5.2,false
 glm-5.3,false
 kimi-k2.6,false
+nemotron-3-nano:30b,true
+nemotron-3-super,true
+mimo-v2.6-pro,false
+minimax-m2.7,false
+mistral-large-3:675b,false

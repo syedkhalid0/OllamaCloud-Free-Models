@@ -1,25 +1,5 @@
 [
   {
-    "model": "nemotron-3-nano:30b",
-    "isFree": true
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
-    "model": "mimo-v2.6-pro",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m2.7",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
     "model": "nemotron-3-ultra",
     "isFree": true
   },
@@ -101,6 +81,26 @@
   },
   {
     "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-nano:30b",
+    "isFree": true
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m2.7",
+    "isFree": false
+  },
+  {
+    "model": "mistral-large-3:675b",
     "isFree": false
   }
 ]
