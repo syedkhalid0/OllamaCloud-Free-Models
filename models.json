@@ -1,14 +1,30 @@
 [
   {
-    "model": "glm-5.3",
+    "model": "nemotron-3-super",
+    "isFree": true
+  },
+  {
+    "model": "muse-spark-open",
     "isFree": false
   },
   {
-    "model": "kimi-k2.7-code",
+    "model": "deepseek-v4.1-flash",
     "isFree": false
   },
   {
-    "model": "nemotron-3-nano:30b",
+    "model": "glm-5.3-flash",
+    "isFree": false
+  },
+  {
+    "model": "clef:27b",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3.1-pro",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-ultra",
     "isFree": true
   },
   {
@@ -16,11 +32,47 @@
     "isFree": false
   },
   {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash:1017",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
+    "isFree": true
+  },
+  {
     "model": "minimax-m2.7",
     "isFree": false
   },
   {
-    "model": "kimi-k3",
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "gemma4:31b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m3.1-flash",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:120b",
+    "isFree": true
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "mistral-large-4",
     "isFree": false
   },
   {
@@ -32,75 +84,23 @@
     "isFree": false
   },
   {
-    "model": "nemotron-3-ultra",
-    "isFree": true
-  },
-  {
-    "model": "kimi-k3.1-pro",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:120b",
-    "isFree": true
-  },
-  {
-    "model": "gemma4:31b",
-    "isFree": true
-  },
-  {
-    "model": "mimo-v2.6-pro",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:20b",
-    "isFree": true
-  },
-  {
-    "model": "mistral-large-4",
-    "isFree": false
-  },
-  {
-    "model": "clef:27b",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-flash",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash:1017",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": true
-  },
-  {
     "model": "beam",
     "isFree": true
   },
   {
-    "model": "glm-5.3-flash",
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash",
+    "model": "glm-5.3",
     "isFree": false
   },
   {
-    "model": "minimax-m3",
-    "isFree": false
+    "model": "nemotron-3-nano:30b",
+    "isFree": true
   },
   {
-    "model": "mistral-large-3:675b",
+    "model": "mimo-v2.6-flash",
     "isFree": false
   }
 ]
