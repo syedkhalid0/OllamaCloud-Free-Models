@@ -1,19 +1,11 @@
 [
   {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-pro",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-nano:30b",
+    "model": "gemma4:31b",
     "isFree": true
+  },
+  {
+    "model": "mimo-v2.6-flash",
+    "isFree": false
   },
   {
     "model": "glm-5.3-flash",
@@ -24,7 +16,23 @@
     "isFree": true
   },
   {
-    "model": "minimax-m3.1-flash",
+    "model": "muse-spark-open",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "isFree": false
+  },
+  {
+    "model": "mistral-large-4",
+    "isFree": false
+  },
+  {
+    "model": "clef:27b",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3",
     "isFree": false
   },
   {
@@ -36,23 +44,15 @@
     "isFree": true
   },
   {
+    "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
     "model": "deepseek-v4.1-flash:1017",
     "isFree": false
   },
   {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "clef:27b",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k3.1-pro",
-    "isFree": false
-  },
-  {
-    "model": "gemma4:31b",
+    "model": "nemotron-3-nano:30b",
     "isFree": true
   },
   {
@@ -60,12 +60,8 @@
     "isFree": true
   },
   {
-    "model": "mistral-large-3:675b",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.2",
-    "isFree": false
+    "model": "beam",
+    "isFree": true
   },
   {
     "model": "glm-5.3",
@@ -76,23 +72,23 @@
     "isFree": false
   },
   {
-    "model": "kimi-k3",
+    "model": "minimax-m3.1-flash",
     "isFree": false
-  },
-  {
-    "model": "beam",
-    "isFree": true
   },
   {
     "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
-    "model": "minimax-m3",
+    "model": "deepseek-v4-pro:0813",
     "isFree": false
   },
   {
-    "model": "mimo-v2.6-flash",
+    "model": "mistral-large-3:675b",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.2",
     "isFree": false
   },
   {
@@ -100,7 +96,11 @@
     "isFree": true
   },
   {
-    "model": "mistral-large-4",
+    "model": "kimi-k3.1-pro",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3",
     "isFree": false
   }
 ]
