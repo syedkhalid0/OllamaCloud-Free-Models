@@ -39,12 +39,7 @@ These models are available at no cost. No subscription is required (you only nee
 <!-- FREE_MODELS_TABLE -->
 | Model |
 |-------|
-| beam |
-| gemma4:31b |
-| gpt-oss:120b |
-| gpt-oss:20b |
-| nemotron-3-super |
-| nemotron-3-ultra |
+
 <!-- FREE_MODELS_TABLE_END -->
 
 ## Paid Models
@@ -54,13 +49,17 @@ These models require a paid subscription to access.
 <!-- PAID_MODELS_TABLE -->
 | Model |
 |-------|
+| beam |
 | clef:27b |
 | deepseek-v4-pro:0813 |
 | deepseek-v4.1-flash |
 | deepseek-v4.1-flash:1017 |
+| gemma4:31b |
 | glm-5.2 |
 | glm-5.3 |
 | glm-5.3-flash |
+| gpt-oss:120b |
+| gpt-oss:20b |
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | kimi-k3 |
@@ -71,6 +70,8 @@ These models require a paid subscription to access.
 | minimax-m3.1-flash |
 | mistral-large-4 |
 | muse-spark-open |
+| nemotron-3-super |
+| nemotron-3-ultra |
 <!-- PAID_MODELS_TABLE_END -->
 
 ---
