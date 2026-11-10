@@ -1,6 +1,6 @@
 [
   {
-    "model": "clef:27b",
+    "model": "glm-5.3",
     "isFree": false
   },
   {
@@ -8,7 +8,7 @@
     "isFree": false
   },
   {
-    "model": "mimo-v2.6-pro",
+    "model": "minimax-m3",
     "isFree": false
   },
   {
@@ -16,11 +16,7 @@
     "isFree": false
   },
   {
-    "model": "gpt-oss:120b",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-flash",
+    "model": "clef:27b",
     "isFree": false
   },
   {
@@ -28,11 +24,27 @@
     "isFree": false
   },
   {
-    "model": "deepseek-v4-pro:0813",
+    "model": "deepseek-v4.1-flash",
     "isFree": false
   },
   {
-    "model": "mistral-large-4",
+    "model": "beam",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-flash",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.3-flash",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:120b",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
@@ -40,11 +52,11 @@
     "isFree": false
   },
   {
-    "model": "glm-5.3",
+    "model": "mimo-v2.6-pro",
     "isFree": false
   },
   {
-    "model": "kimi-k2.7-code",
+    "model": "kimi-k3.1-pro",
     "isFree": false
   },
   {
@@ -56,11 +68,7 @@
     "isFree": false
   },
   {
-    "model": "beam",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3",
+    "model": "mistral-large-4",
     "isFree": false
   },
   {
@@ -68,19 +76,7 @@
     "isFree": false
   },
   {
-    "model": "minimax-m3.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k3",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3-flash",
+    "model": "deepseek-v4-pro:0813",
     "isFree": false
   },
   {
@@ -88,7 +84,11 @@
     "isFree": false
   },
   {
-    "model": "kimi-k3.1-pro",
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3.1-flash",
     "isFree": false
   }
 ]
