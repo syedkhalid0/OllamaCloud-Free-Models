@@ -1,22 +1,6 @@
 [
   {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.6",
-    "isFree": false
-  },
-  {
-    "model": "beam",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-pro",
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
@@ -24,55 +8,11 @@
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash:1017",
-    "isFree": false
-  },
-  {
-    "model": "gemma4:31b",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.2",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.7-code",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3.1-flash",
-    "isFree": false
-  },
-  {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "minimax-m3",
-    "isFree": false
-  },
-  {
-    "model": "clef:27b",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3-flash",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-super",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-ultra",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3",
-    "isFree": false
-  },
-  {
     "model": "gpt-oss:120b",
+    "isFree": false
+  },
+  {
+    "model": "beam",
     "isFree": false
   },
   {
@@ -80,7 +20,31 @@
     "isFree": false
   },
   {
-    "model": "kimi-k3",
+    "model": "muse-spark-open",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-ultra",
+    "isFree": false
+  },
+  {
+    "model": "clef:27b",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3.1-flash",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-pro",
     "isFree": false
   },
   {
@@ -89,6 +53,42 @@
   },
   {
     "model": "gpt-oss:20b",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-super",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.3",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.3-flash",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2.6",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.2",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash:1017",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
+    "isFree": false
+  },
+  {
+    "model": "gemma4:31b",
     "isFree": false
   }
 ]
