@@ -1,6 +1,14 @@
 [
   {
-    "model": "minimax-m3",
+    "model": "glm-5.2",
+    "isFree": false
+  },
+  {
+    "model": "gemma4:31b",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k2.6",
     "isFree": false
   },
   {
@@ -8,31 +16,7 @@
     "isFree": false
   },
   {
-    "model": "muse-spark-open",
-    "isFree": false
-  },
-  {
-    "model": "mistral-large-4",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k3",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.2",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-flash",
-    "isFree": false
-  },
-  {
-    "model": "mimo-v2.6-pro",
-    "isFree": false
-  },
-  {
-    "model": "glm-5.3",
+    "model": "clef:27b",
     "isFree": false
   },
   {
@@ -44,31 +28,11 @@
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash",
+    "model": "deepseek-v4.1-flash:1017",
     "isFree": false
   },
   {
-    "model": "gpt-oss:20b",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.7-code",
-    "isFree": false
-  },
-  {
-    "model": "deepseek-v4-pro:0813",
-    "isFree": false
-  },
-  {
-    "model": "gpt-oss:120b",
-    "isFree": false
-  },
-  {
-    "model": "nemotron-3-ultra",
-    "isFree": false
-  },
-  {
-    "model": "kimi-k2.6",
+    "model": "nemotron-3-super",
     "isFree": false
   },
   {
@@ -76,19 +40,59 @@
     "isFree": false
   },
   {
-    "model": "clef:27b",
+    "model": "gpt-oss:120b",
     "isFree": false
   },
   {
-    "model": "deepseek-v4.1-flash:1017",
+    "model": "kimi-k2.7-code",
     "isFree": false
   },
   {
-    "model": "gemma4:31b",
+    "model": "mistral-large-4",
     "isFree": false
   },
   {
-    "model": "nemotron-3-super",
+    "model": "inkling-2-small",
+    "isFree": false
+  },
+  {
+    "model": "muse-spark-open",
+    "isFree": false
+  },
+  {
+    "model": "glm-5.3",
+    "isFree": false
+  },
+  {
+    "model": "kimi-k3",
+    "isFree": false
+  },
+  {
+    "model": "minimax-m3",
+    "isFree": false
+  },
+  {
+    "model": "gpt-oss:20b",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4-pro:0813",
+    "isFree": false
+  },
+  {
+    "model": "nemotron-3-ultra",
+    "isFree": false
+  },
+  {
+    "model": "deepseek-v4.1-flash",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "isFree": false
+  },
+  {
+    "model": "mimo-v2.6-flash",
     "isFree": false
   }
 ]

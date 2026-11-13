@@ -60,6 +60,7 @@ These models require a paid subscription to access.
 | glm-5.3-flash |
 | gpt-oss:120b |
 | gpt-oss:20b |
+| inkling-2-small |
 | kimi-k2.6 |
 | kimi-k2.7-code |
 | kimi-k3 |
